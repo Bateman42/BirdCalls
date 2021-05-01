@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bird Calls</string>
+
+    <string name="amrobin">American Robin</string>
+    <string name="barnswallow">Barn Swallow</string>
+    <string name="hairywoodpecker">Hairy Woodpecker</string>
+    <string name="housewren">House Wren</string>
+    <string name="play">Play</string>
+    <string name="credits">Credits</string>
+
+    <string name="nps0">Audio Files</string>
+    <string name="nps1">All records belong in the public domain courtesy of the </string>
+    <string name="nps2">National Park Service, Rocky Mountain National Park, Colorado.</string>
+    <string name="nps3">https://www.nps.gov/romo/learn/photosmultimedia/soundlibrary.htm#birds</string>
+
+    <string name="img0">Images</string>
+    <string name="img1">All images located at Wikipedia Commons </string>
+    <string name="img2">https://commons.wikimedia.org/wiki/Main_Page</string>
+    <string name="img3">American Robin: August 2005. Humber Bay Park, Toronto, Canada</string>
+    <string name="img4">Barn Swallow: February 2019. Nrik kiran.</string>
+    <string name="img5">Hairy Woodpecker: April 2008. Matt MacGillivray, Toronto, Canada.</string>
+    <string name="img6">House Wren: March 2006. Kersti Nebelsiek. Buenos Aires, Argentina.</string>
+    <string name="close">Close</string>
+
+</resources>
